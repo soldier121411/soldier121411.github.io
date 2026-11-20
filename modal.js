@@ -4,7 +4,7 @@ const projects = {
   project3: { title: '피부과광고 · SNS 배너', image: 'img/sns배너디자인.png', tools: 'Photoshop · Illustrator · Figma', overview: '대구 피부과의 유명 병원인 애플피부과의 아이덴티티를 살려, 소비자의 시선을 사로잡고 클릭을 유도하는 SNS 광고 배너를 팀원들과 함께 기획·제작했습니다.' },
   project4: { title: 'FRASH POP · 영상 편집', image: 'img/아이스크림광고디자인.png', pdf: 'cg.pdf', tools: 'Premiere Pro', overview: '아이스크림 광고 영상을 주제로 장면의 흐름과 색보정을 기획한 가상 영상 편집 프로젝트입니다.', video: 'https://youtu.be/LnO5V_QYMv4' },
   project5: { title: '화장품 광고 디자인 · 상세페이지', image: 'img/화장품디자인.png', tools: 'Figma · Photoshop', overview: '실제 기업 공모전 과제를 기반으로 진행한 프로젝트로, 화장품의 기술적 특장점과 유저 편의성을 직관적인 UI/UX로 시각화한 상세페이지 디자인입니다.' },
-  project6: { title: '건프라 정보 및 추천 앱 · 웹사이트 디자인', image: 'img/건담디자인사이트.png', website: 'bandai/index.html', pdf: 'ui.pdf', tools: 'Figma', overview: '기존 건프라 관련 앱들의 정보 과다 문제를 개선하기 위해 사용자 맞춤형 필터링과 직관적인 정보성을 도입하여, 원하는 건프라 정보들을 쉽고 빠르게 탐색할 수 있도록 설계한 웹사이트 디자인입니다.' },
+  project6: { title: '건프라 정보 및 추천 앱 · 웹사이트 디자인', image: 'img/건담디자인사이트.png', website: 'https://soldier121411.github.io/bandai/index.html', pdf: 'ui.pdf', tools: 'Figma', overview: '기존 건프라 관련 앱들의 정보 과다 문제를 개선하기 위해 사용자 맞춤형 필터링과 직관적인 정보성을 도입하여, 원하는 건프라 정보들을 쉽고 빠르게 탐색할 수 있도록 설계한 웹사이트 디자인입니다.' },
   project7: { title: '여행 정보 어플 · UI/UX 앱 디자인', image: 'img/uiux디자인포스터.png', pdf: 'app.pdf', tools: 'Photoshop · Illustrator · Figma', overview: '여행의 유용한 정보들과 소식들을 전달하기 위해, 여행을 즐겨하는 사용자들의 여행 예약과 지도 목록, 여행 일정 저장 등을 전문적인 정보성과 시스템을 도입하여 만들어진 UI/UX 앱 디자인 입니다.' },
   project8: { title: 'ALL NEW RIDE · AI 영상 그래픽', image: 'img/오토바이디자인.png', pdf: 'ai.pdf', tools: 'Premiere Pro · Photoshop', overview: '오토바이 주행 AI 그래픽 영상을 주제로 장면의 역동성과 스릴이 넘치는 이팩트들을 기획한 가상 AI 영상 그래픽 프로젝트입니다.', video: 'https://youtu.be/iiBmDZmvkKg' }
 };
