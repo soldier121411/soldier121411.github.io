@@ -124,7 +124,8 @@
             font-weight: 600;
         }
 
-        .card p:first-of-type {
+        .card p:first-of-type,
+        .card2 p:first-of-type {
             font-size: 12px;
             color: #505b6e;
         }
@@ -146,6 +147,12 @@
             margin-bottom: 6px;
             color: #ffb0bc;
             font-weight: 800;
+        }
+
+        .bg2 {
+            padding: 60px 0;
+            background: linear-gradient(90deg, #3b3b3b 5%, #3a3a3a45), url(img/gp.png) no-repeat center / cover;
+            color: #fff;
         }
 
         footer {
@@ -204,10 +211,12 @@
     <header>
         <div class="logo"><img src="img/pngegg.png"></div>
         <nav>
+            <a href="#">🔍</a>
             <a href="#">건프라</a>
             <a href="#">애니프라</a>
             <a href="#">완성품</a>
             <a href="#">부속품/악세서리</a>
+            <a href="#">🛒</a>
         </nav>
     </header>
     <section class="hero">
@@ -248,14 +257,17 @@
         <h2>만드는 즐거움! 건프라 입문 강좌</h2>
         <div class="daily-new-list2">
             <div class="card2"><img src="img/gms.jpg">
+                <p>건담 마커</p>
                 <p>G-MARKER GMS105 마커 베이직 컬러 세트</p>
                 <p>22,500원</p>
             </div>
             <div class="card2"><img src="img/me.jpg">
+                <p>건담 마커</p>
                 <p>G-MARKER GM14 마커 지우개/21</p>
                 <p>3,800원</p>
             </div>
             <div class="card2"><img src="img/mb.jpg">
+                <p>건담 마커</p>
                 <p>G-MARKER GM13 마커 메카 블랙/21</p>
                 <p>3,800원</p>
             </div>
@@ -297,9 +309,9 @@
             </div>
         </div>
     </section>
-    <section class="wrap">
-        <h1>HG 1/144 아류제우스</h1>
-        <div class="daily-new-list3">
+    <section class="bg2">
+        <h1 class="wrap">건프라 신제품 뉴스</h1>
+        <div class="daily-new-list3 wrap">
             <div class="card"><img src="img/aj.png">
             </div>
             <div class="card"><img src="img/xgu.png">
